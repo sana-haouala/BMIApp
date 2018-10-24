@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\BMIApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sana\\AndroidStudioProjects\\BMIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\sana\\AndroidStudioProjects\\BMIApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
